@@ -1,3 +1,0 @@
-user=root
-password=student
-dburl=jdbc:mysql://localhost/CollegeAssignment
